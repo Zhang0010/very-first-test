@@ -1,1 +1,2 @@
-# very-first-test
+＃第一次测试
+＃初为JavaScript
